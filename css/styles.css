@@ -69,6 +69,15 @@
   box-sizing: border-box;
 }
 
+@font-face {
+    font-family: 'vazir'; /*a name to be used later*/
+    src: url('https://mahdiyaramirabadi.github.io/jamedadisite/assets/font/Vazir.ttf'); /*URL to font*/
+}
+@font-face {
+    font-family: 'lalezar'; /*a name to be used later*/
+    src: url('https://mahdiyaramirabadi.github.io/jamedadisite/assets/font/Lalezar-Regular.ttf'); /*URL to font*/
+}
+
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
